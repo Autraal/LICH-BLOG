@@ -1,0 +1,16 @@
+{
+  "blogs": [
+    {
+      "title": "Who is Bnxn?",
+      "body": "Daniel Benson (born 14 May 1997), known professionally as Bnxn (pronounced as Benson) and formerly known as Buju, is a Nigerian Afro-fusion singer.",
+      "author": "mario",
+      "id": 1
+    },
+    {
+      "title": "Who is wizkid",
+      "body": "Wizkid (born 16 July 1990), whose real name is Ayodeji Ibrahim Balogun, is a Nigerian songwriter and singer.",
+      "author": "yoshi",
+      "id": 2
+    }
+  ]
+}
